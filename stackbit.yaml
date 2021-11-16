@@ -2,12 +2,12 @@ stackbitVersion: ~0.4.0
 ssgName: nextjs13
 nodeVersion: '14'
 cmsName: git
-assets:
+assets132:
   referenceType: static
   staticDir: public
   uploadDir: images
   publicPath: /
-dataDir: content/data
+dataDi123r: content/data
 pagesDir: content/pages
 pageLayoutKey: layout
 objectTypeKey: type
