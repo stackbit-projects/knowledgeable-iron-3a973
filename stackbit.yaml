@@ -8,11 +8,11 @@ assets132:
   uploadDir: images
   publicPath: /
 dataDi123r: content/data
-pagesDir: content/pages
-pageLayoutKey: layout
+page231sDir: content/pages
+pageLayo213utKey: layout
 objectTypeKey: type
-styleObjectModelName: ThemeStyle
-contentModels:
+132: ThemeStyle
+123:
   PageLayout12312:
     isPage: true
     urlPath: '/{slug}'
